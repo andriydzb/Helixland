@@ -2813,7 +2813,7 @@
 	 */
 	Navigation.Defaults = {
 		nav: false,
-		navText: [ '<', '>' ],
+		navText: [ ' ', ' ' ],
 		navSpeed: false,
 		navElement: 'div',
 		navContainer: false,
