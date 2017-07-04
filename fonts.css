@@ -1,0 +1,19 @@
+@font-face {
+      font-family: "BadScriptRegular";
+      src: url("./fonts/BadScriptRegular/BadScriptRegular.eot");
+      src: url("./fonts/BadScriptRegular/BadScriptRegular.eot?#iefix")format("embedded-opentype"),
+      url("./fonts/BadScriptRegular/BadScriptRegular.woff") format("woff"),
+      url("./fonts/BadScriptRegular/BadScriptRegular.ttf") format("truetype");
+      font-style: normal;
+      font-weight: normal;
+  }
+
+@font-face {
+      font-family: "BlissProHeavy";
+      src: url(./fonts/BlissPro/BlissProHeavy.ttf);
+  }
+
+@font-face {
+      font-family: "BlissPro";
+      src: url(./fonts/BlissPro/BlissPro.otf);
+  }
