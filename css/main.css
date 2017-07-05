@@ -1358,6 +1358,9 @@ footer .footer__numbers_email img {
         -ms-flex-pack: center;
             justify-content: center;
   }
+  .main-content__images-sm_item img {
+    min-height: 150px;
+  }
   .main-content__images-sm_text {
     position: absolute;
     display: -webkit-box;
